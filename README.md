@@ -1,3 +1,5 @@
+<img src="images/배경.jpg" width = 500 height = 300> </img>
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90&animation=blinking)
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=leejs96)](https://github.com/leejs96)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejs96)](https://github.com/leejs96/github-readme-stats)
