@@ -3,4 +3,4 @@
 😂
 🤭
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumalg12)](https://github.com/yumalg12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejs96)](https://github.com/leejs96/github-readme-stats)
